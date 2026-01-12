@@ -1,0 +1,17 @@
+  Geri y??klenecek projeler belirleniyor...
+  Yap??lacak i??lem yok. Belirtilen projelerden hi??biri geri y??klenecek paketleri i??ermiyor.
+C:\Program Files\dotnet\sdk\10.0.101\Microsoft.Common.CurrentVersion.targets(3442,5): error MSB3823: Dize olmayan kaynaklar i??in GenerateResourceUsePreserializedResources ??zelli??inin true olarak ayarlanmas?? gerekiyor. [C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj]
+C:\Program Files\dotnet\sdk\10.0.101\Microsoft.Common.CurrentVersion.targets(3442,5): error MSB3822: Dize olmayan kaynaklar i??in ??al????ma zaman??nda System.Resources.Extensions b??t??nle??tirilmi?? kodu gerekiyor, ancak bu projenin ba??vurular??nda bulunamad??. [C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj]
+C:\Program Files\dotnet\sdk\10.0.101\Microsoft.Common.CurrentVersion.targets(3442,5): error MSB3823: Dize olmayan kaynaklar i??in GenerateResourceUsePreserializedResources ??zelli??inin true olarak ayarlanmas?? gerekiyor. [C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj]
+C:\Program Files\dotnet\sdk\10.0.101\Microsoft.Common.CurrentVersion.targets(3442,5): error MSB3822: Dize olmayan kaynaklar i??in ??al????ma zaman??nda System.Resources.Extensions b??t??nle??tirilmi?? kodu gerekiyor, ancak bu projenin ba??vurular??nda bulunamad??. [C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj]
+
+Olu??turma BA??ARISIZ OLDU.
+
+C:\Program Files\dotnet\sdk\10.0.101\Microsoft.Common.CurrentVersion.targets(3442,5): error MSB3823: Dize olmayan kaynaklar i??in GenerateResourceUsePreserializedResources ??zelli??inin true olarak ayarlanmas?? gerekiyor. [C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj]
+C:\Program Files\dotnet\sdk\10.0.101\Microsoft.Common.CurrentVersion.targets(3442,5): error MSB3822: Dize olmayan kaynaklar i??in ??al????ma zaman??nda System.Resources.Extensions b??t??nle??tirilmi?? kodu gerekiyor, ancak bu projenin ba??vurular??nda bulunamad??. [C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj]
+C:\Program Files\dotnet\sdk\10.0.101\Microsoft.Common.CurrentVersion.targets(3442,5): error MSB3823: Dize olmayan kaynaklar i??in GenerateResourceUsePreserializedResources ??zelli??inin true olarak ayarlanmas?? gerekiyor. [C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj]
+C:\Program Files\dotnet\sdk\10.0.101\Microsoft.Common.CurrentVersion.targets(3442,5): error MSB3822: Dize olmayan kaynaklar i??in ??al????ma zaman??nda System.Resources.Extensions b??t??nle??tirilmi?? kodu gerekiyor, ancak bu projenin ba??vurular??nda bulunamad??. [C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj]
+    0 Uyar??
+    4 Hata
+
+Ge??en S??re 00:00:00.19

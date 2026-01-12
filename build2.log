@@ -1,0 +1,560 @@
+Oluþturma baþlatýldý: 10.01.2026 17:22:46.
+1 düðümünde "C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject.sln" projesi (Build hedef).
+Araçlar sürümü "4.0" ile oluþturuluyor.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject.sln" projesinin "C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject.sln.metaproj" dosyasýndaki "ValidateSolutionConfiguration" hedefi (giriþ noktasý):
+Yanlýþ koþul nedeniyle "Error" görevi atlandý; (('$(CurrentSolutionConfigurationContents)' == '') and ('$(SkipInvalidConfigurations)' != 'true')), (('<SolutionConfiguration>
+  <ProjectConfiguration Project="{D6DBC065-6E3C-46DE-8AEE-E7E526092690}" AbsolutePath="C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" BuildProjectInSolution="True">Release|AnyCPU</ProjectConfiguration>
+</SolutionConfiguration>' == '') and ('' != 'true')) olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Warning" görevi atlandý; (('$(CurrentSolutionConfigurationContents)' == '') and ('$(SkipInvalidConfigurations)' == 'true')), (('<SolutionConfiguration>
+  <ProjectConfiguration Project="{D6DBC065-6E3C-46DE-8AEE-E7E526092690}" AbsolutePath="C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" BuildProjectInSolution="True">Release|AnyCPU</ProjectConfiguration>
+</SolutionConfiguration>' == '') and ('' == 'true')) olarak deðerlendirildi.
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "Message" görevi kullanýlýyor.
+"Message" görevi
+  "Release|Any CPU" çözüm yapýlandýrmasý oluþturuluyor.
+"Message" görevini yürütme tamamlandý.
+"ICExProject.sln" projesinde "ValidateSolutionConfiguration" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject.sln" projesinin "C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject.sln.metaproj" dosyasýndaki "ValidateToolsVersions" hedefi (giriþ noktasý):
+Yanlýþ koþul nedeniyle "Error" görevi atlandý; ('$(MSBuildToolsVersion)' == '2.0' and ('$(ProjectToolsVersion)' != '2.0' and '$(ProjectToolsVersion)' != '')), ('4.0' == '2.0' and ('' != '2.0' and '' != '')) olarak deðerlendirildi.
+"ICExProject.sln" projesinde "ValidateToolsVersions" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject.sln" projesinin "C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject.sln.metaproj" dosyasýndaki "ValidateProjects" hedefi (giriþ noktasý):
+"ICExProject.sln" projesinde "ValidateProjects" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject.sln" projesinin "C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject.sln.metaproj" dosyasýndaki "Build" hedefi (giriþ noktasý):
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "MSBuild" görevi kullanýlýyor.
+"MSBuild" görevi
+  Genel Özellikler:
+    BuildingSolutionFile=true
+    CurrentSolutionConfigurationContents=<SolutionConfiguration>
+    <ProjectConfiguration Project="{D6DBC065-6E3C-46DE-8AEE-E7E526092690}" AbsolutePath="C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" BuildProjectInSolution="True">Release|AnyCPU</ProjectConfiguration>
+  </SolutionConfiguration>
+    SolutionDir=C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\
+    SolutionExt=.sln
+    SolutionFileName=ICExProject.sln
+    SolutionName=ICExProject
+    SolutionPath=C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject.sln
+  "C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesi için Ek Özellikler:
+    Configuration=Release
+    Platform=AnyCPU
+    VisualStudioVersion=11.0
+"C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.NETFramework.targets" projesindeki "GetFrameworkPaths" hedefi kullanýlarak "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" projesindeki "GetFrameworkPaths" hedefinin üzerine yazýlýyor.
+"C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.WinFX.targets" projesindeki "SatelliteDllsProjectOutputGroup" hedefi kullanýlarak "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" projesindeki "SatelliteDllsProjectOutputGroup" hedefinin üzerine yazýlýyor.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject.sln" projesi (1) 1 düðümünde "C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" (2) oluþturuyor (varsayýlan hedefler).
+Araçlar sürümü "12.0" ile oluþturuluyor.
+Proje dosyasý ToolsVersion="12.0" içeriyor. Bu araç kümesi bilinmiyor veya olmayabilir, bu durumda MSBuild'in uygun sürümünü yükleyerek bu sorunu çözebilirsiniz ya da derleme ilkelere baðlý olarak belirli bir ToolsVersion deðerine zorlanmýþ olabilir. Proje ToolsVersion="4.0" gibi ele alýnýyor. Daha fazla bilgi için http://go.microsoft.com/fwlink/?LinkId=291333 sayfasýna bakýn.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "_CheckForInvalidConfigurationAndPlatform" hedefi (giriþ noktasý):
+Yanlýþ koþul nedeniyle "Error" görevi atlandý; ( '$(_InvalidConfigurationError)' == 'true' ), ( '' == 'true' ) olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Warning" görevi atlandý; ( '$(_InvalidConfigurationWarning)' == 'true' ), ( '' == 'true' ) olarak deðerlendirildi.
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "Message" görevi kullanýlýyor.
+"Message" görevi
+  Configuration=Release
+"Message" görevini yürütme tamamlandý.
+"Message" görevi
+  Platform=AnyCPU
+"Message" görevini yürütme tamamlandý.
+Yanlýþ koþul nedeniyle "Error" görevi atlandý; ('$(OutDir)' != '' and !HasTrailingSlash('$(OutDir)')), ('bin\Release\' != '' and !HasTrailingSlash('bin\Release\')) olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Error" görevi atlandý; ('$(BaseIntermediateOutputPath)' != '' and !HasTrailingSlash('$(BaseIntermediateOutputPath)')), ('obj\' != '' and !HasTrailingSlash('obj\')) olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Error" görevi atlandý; ('$(IntermediateOutputPath)' != '' and !HasTrailingSlash('$(IntermediateOutputPath)')), ('obj\Release\' != '' and !HasTrailingSlash('obj\Release\')) olarak deðerlendirildi.
+"ICExProject.csproj" projesinde "_CheckForInvalidConfigurationAndPlatform" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "EntityDeploy" hedefi atlandý; ('@(EntityDeploy)' != ''), ('' != '') olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "BeforeBuild" hedefi ("Build" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "BeforeBuild" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "BuildOnlySettings" hedefi ("CoreBuild" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "BuildOnlySettings" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.NETFramework.targets" dosyasýndaki "GetFrameworkPaths" hedefi ("PrepareForBuild" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "GetFrameworkPaths" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "GetWinFXPath" hedefi atlandý; (('@(Page)' != '' or '@(ApplicationDefinition)' != '' or '@(Resource)' != '') and ('$(GetWinFXNativePath)' != '' or '$(GetWinFXWoWPath)' != '' )), (('' != '' or '' != '' or '' != '') and ('' != '' or '' != '' )) olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "GetReferenceAssemblyPaths" hedefi ("PrepareForBuild" hedefi buna baðýmlý):
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "GetReferenceAssemblyPaths" görevi kullanýlýyor.
+"GetReferenceAssemblyPaths" görevi
+"GetReferenceAssemblyPaths" görevini yürütme tamamlandý.
+"ICExProject.csproj" projesinde "GetReferenceAssemblyPaths" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "PrepareForBuild" hedefi ("CoreBuild" hedefi buna baðýmlý):
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "FindAppConfigFile" görevi kullanýlýyor.
+"FindAppConfigFile" görevi
+  "App.config" bulundu.
+"FindAppConfigFile" görevini yürütme tamamlandý.
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "MakeDir" görevi kullanýlýyor.
+"MakeDir" görevi
+"MakeDir" görevini yürütme tamamlandý.
+"ICExProject.csproj" projesinde "PrepareForBuild" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "PreBuildEvent" hedefi atlandý; ('$(PreBuildEvent)'!=''), (''!='') olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "BeforeResolveReferences" hedefi ("ResolveReferences" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "BeforeResolveReferences" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "AssignProjectConfiguration" hedefi ("ResolveReferences" hedefi buna baðýmlý):
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "AssignProjectConfiguration" görevi kullanýlýyor.
+"AssignProjectConfiguration" görevi
+"AssignProjectConfiguration" görevini yürütme tamamlandý.
+"ICExProject.csproj" projesinde "AssignProjectConfiguration" hedefini oluþturma tamamlandý.
+"AssignProjectConfiguration" hedefi atlandý. Önceden baþarýlý bir þekilde oluþturulmuþtu.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "_SplitProjectReferencesByFileExistence" hedefi ("ResolveProjectReferences" hedefi buna baðýmlý):
+Yanlýþ koþul nedeniyle "ResolveNonMSBuildProjectOutput" görevi atlandý; ('$(BuildingInsideVisualStudio)'=='true' and '@(ProjectReferenceWithConfiguration)'!=''), (''=='true' and ''!='') olarak deðerlendirildi.
+"ICExProject.csproj" projesinde "_SplitProjectReferencesByFileExistence" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "ResolveProjectReferences" hedefi ("ResolveReferences" hedefi buna baðýmlý):
+Yanlýþ koþul nedeniyle "MSBuild" görevi atlandý; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' != '10.0' and '@(_MSBuildProjectReferenceExistent)' != ''), ('' == 'true' and '' != '' and ('' == 'true' or 'true' != 'true') and '11.0' != '10.0' and '' != '') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "MSBuild" görevi atlandý; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' == '10.0' and '@(_MSBuildProjectReferenceExistent)' != ''), ('' == 'true' and '' != '' and ('' == 'true' or 'true' != 'true') and '11.0' == '10.0' and '' != '') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "MSBuild" görevi atlandý; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != ''), ('' == 'true' and '' != '' and '' != 'true' and 'true' == 'true' and '' != '') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "MSBuild" görevi atlandý; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingProject)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != ''), ('' == 'true' and '' != '' and 'true' == 'true' and '' != '') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Warning" görevi atlandý; ('@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceNonexistent)' != ''), ('' != '' and '' != '') olarak deðerlendirildi.
+"ICExProject.csproj" projesinde "ResolveProjectReferences" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "ResolveNativeReferences" hedefi atlandý; ('@(NativeReference)'!=''), (''!='') olarak deðerlendirildi.
+"GetFrameworkPaths" hedefi atlandý. Önceden baþarýlý bir þekilde oluþturulmuþtu.
+"GetReferenceAssemblyPaths" hedefi atlandý. Önceden baþarýlý bir þekilde oluþturulmuþtu.
+"PrepareForBuild" hedefi atlandý. Önceden baþarýlý bir þekilde oluþturulmuþtu.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "GetInstalledSDKLocations" hedefi ("ResolveSDKReferences" hedefi buna baðýmlý):
+Yanlýþ koþul nedeniyle "GetInstalledSDKLocations" görevi atlandý; ('@(SDKReference)' != ''), ('' != '') olarak deðerlendirildi.
+"ICExProject.csproj" projesinde "GetInstalledSDKLocations" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "ResolveSDKReferences" hedefi ("ResolveAssemblyReferences" hedefi buna baðýmlý):
+Yanlýþ koþul nedeniyle "ResolveSDKReference" görevi atlandý; ('@(SDKReference)'!=''), (''!='') olarak deðerlendirildi.
+"ICExProject.csproj" projesinde "ResolveSDKReferences" hedefini oluþturma tamamlandý.
+"ResolveSDKReferences" hedefi atlandý. Önceden baþarýlý bir þekilde oluþturulmuþtu.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "ExpandSDKReferences" hedefi ("ResolveAssemblyReferences" hedefi buna baðýmlý):
+Yanlýþ koþul nedeniyle "GetSDKReferenceFiles" görevi atlandý; ('@(ResolvedSDKReference)'!=''), (''!='') olarak deðerlendirildi.
+"ICExProject.csproj" projesinde "ExpandSDKReferences" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "ResolveAssemblyReferences" hedefi ("ResolveReferences" hedefi buna baðýmlý):
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "ResolveAssemblyReference" görevi kullanýlýyor.
+"ResolveAssemblyReference" görevi
+  TargetFrameworkMoniker:
+      .NETFramework,Version=v4.8
+  TargetFrameworkMonikerDisplayName:
+      .NET Framework 4.8
+  TargetedRuntimeVersion:
+      v4.0.30319
+  Assemblies:
+      System
+      System.Xml.Linq
+      System.Data.DataSetExtensions
+      Microsoft.CSharp
+      System.Data
+      System.Deployment
+      System.Drawing
+      System.Windows.Forms
+      System.Xml
+      System.Core
+  AssemblyFiles:
+      C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\mscorlib.dll
+  CandidateAssemblyFiles:
+  TargetFrameworkDirectories:
+      C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\,C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\
+  InstalledAssemblyTables:
+  IgnoreInstalledAssemblyTable:
+      False
+  SearchPaths:
+      {CandidateAssemblyFiles}
+      {HintPathFromItem}
+      {TargetFrameworkDirectory}
+      {Registry:Software\Microsoft\.NETFramework,v4.8,AssemblyFoldersEx}
+      {AssemblyFolders}
+      {GAC}
+      {RawFileName}
+      bin\Release\
+  AllowedAssemblyExtensions:
+      .winmd
+      .dll
+      .exe
+  AllowedRelatedFileExtensions:
+      .pdb
+      .xml
+      .pri
+  AppConfigFile:
+      App.config
+  AutoUnify:
+      False
+  CopyLocalDependenciesWhenParentReferenceInGac:
+      True
+  FindDependencies:
+      True
+  TargetProcessorArchitecture:
+      msil
+  StateFile:
+      obj\Release\ICExProject.csprojResolveAssemblyReference.cache
+  InstalledAssemblySubsetTables:
+  IgnoreInstalledAssemblySubsetTable:
+      False
+  TargetFrameworkSubsets:
+  FullTargetFrameworkSubsetNames:
+      Full
+  ProfileName:
+      
+  FullFrameworkFolders:
+      C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\
+  LatestTargetFrameworkDirectories:
+  ProfileTablesLocation:
+  Birincil baþvuru: "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089".
+      Çözümlenmiþ dosya yolu: "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\mscorlib.dll".
+      Baþvuru, "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\mscorlib.dll" arama yolu konumunda bulundu.
+      Frameworks dizininde olduðundan bu baþvuru "CopyLocal" deðildir.
+      Bu baþvurunun ImageRuntimeVersion'ý "v4.0.30319".
+  Birincil baþvuru: "System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089".
+      Çözümlenmiþ dosya yolu: "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.dll".
+      Baþvuru, "{TargetFrameworkDirectory}" arama yolu konumunda bulundu.
+          SearchPath "{TargetFrameworkDirectory}" için.
+          "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.winmd" denendi, ancak böyle bir öðe yoktu.
+      Bu baþvuru bir önkoþul dosyasý olduðundan "CopyLocal" deðildir.
+      Bu baþvurunun ImageRuntimeVersion'ý "v4.0.30319".
+  Birincil baþvuru: "System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089".
+      Çözümlenmiþ dosya yolu: "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Xml.Linq.dll".
+      Baþvuru, "{TargetFrameworkDirectory}" arama yolu konumunda bulundu.
+          SearchPath "{TargetFrameworkDirectory}" için.
+          "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Xml.Linq.winmd" denendi, ancak böyle bir öðe yoktu.
+      Bu baþvuru bir önkoþul dosyasý olduðundan "CopyLocal" deðildir.
+      Bu baþvurunun ImageRuntimeVersion'ý "v4.0.30319".
+  Birincil baþvuru: "System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089".
+      Çözümlenmiþ dosya yolu: "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Data.DataSetExtensions.dll".
+      Baþvuru, "{TargetFrameworkDirectory}" arama yolu konumunda bulundu.
+          SearchPath "{TargetFrameworkDirectory}" için.
+          "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Data.DataSetExtensions.winmd" denendi, ancak böyle bir öðe yoktu.
+      Bu baþvuru bir önkoþul dosyasý olduðundan "CopyLocal" deðildir.
+      Bu baþvurunun ImageRuntimeVersion'ý "v4.0.30319".
+  Birincil baþvuru: "Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+      Çözümlenmiþ dosya yolu: "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Microsoft.CSharp.dll".
+      Baþvuru, "{TargetFrameworkDirectory}" arama yolu konumunda bulundu.
+          SearchPath "{TargetFrameworkDirectory}" için.
+          "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Microsoft.CSharp.winmd" denendi, ancak böyle bir öðe yoktu.
+      Bu baþvuru bir önkoþul dosyasý olduðundan "CopyLocal" deðildir.
+      Bu baþvurunun ImageRuntimeVersion'ý "v4.0.30319".
+  Birincil baþvuru: "System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089".
+      Çözümlenmiþ dosya yolu: "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Data.dll".
+      Baþvuru, "{TargetFrameworkDirectory}" arama yolu konumunda bulundu.
+          SearchPath "{TargetFrameworkDirectory}" için.
+          "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Data.winmd" denendi, ancak böyle bir öðe yoktu.
+      Bu baþvuru bir önkoþul dosyasý olduðundan "CopyLocal" deðildir.
+      Bu baþvurunun ImageRuntimeVersion'ý "v4.0.30319".
+  Birincil baþvuru: "System.Deployment, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+      Çözümlenmiþ dosya yolu: "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Deployment.dll".
+      Baþvuru, "{TargetFrameworkDirectory}" arama yolu konumunda bulundu.
+          SearchPath "{TargetFrameworkDirectory}" için.
+          "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Deployment.winmd" denendi, ancak böyle bir öðe yoktu.
+      Bu baþvuru bir önkoþul dosyasý olduðundan "CopyLocal" deðildir.
+      Bu baþvurunun ImageRuntimeVersion'ý "v4.0.30319".
+  Birincil baþvuru: "System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+      Çözümlenmiþ dosya yolu: "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Drawing.dll".
+      Baþvuru, "{TargetFrameworkDirectory}" arama yolu konumunda bulundu.
+          SearchPath "{TargetFrameworkDirectory}" için.
+          "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Drawing.winmd" denendi, ancak böyle bir öðe yoktu.
+      Bu baþvuru bir önkoþul dosyasý olduðundan "CopyLocal" deðildir.
+      Bu baþvurunun ImageRuntimeVersion'ý "v4.0.30319".
+  Birincil baþvuru: "System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089".
+      Çözümlenmiþ dosya yolu: "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Windows.Forms.dll".
+      Baþvuru, "{TargetFrameworkDirectory}" arama yolu konumunda bulundu.
+          SearchPath "{TargetFrameworkDirectory}" için.
+          "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Windows.Forms.winmd" denendi, ancak böyle bir öðe yoktu.
+      Bu baþvuru bir önkoþul dosyasý olduðundan "CopyLocal" deðildir.
+      Bu baþvurunun ImageRuntimeVersion'ý "v4.0.30319".
+  Birincil baþvuru: "System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089".
+      Çözümlenmiþ dosya yolu: "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Xml.dll".
+      Baþvuru, "{TargetFrameworkDirectory}" arama yolu konumunda bulundu.
+          SearchPath "{TargetFrameworkDirectory}" için.
+          "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Xml.winmd" denendi, ancak böyle bir öðe yoktu.
+      Bu baþvuru bir önkoþul dosyasý olduðundan "CopyLocal" deðildir.
+      Bu baþvurunun ImageRuntimeVersion'ý "v4.0.30319".
+  Birincil baþvuru: "System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089".
+      Çözümlenmiþ dosya yolu: "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Core.dll".
+      Baþvuru, "{TargetFrameworkDirectory}" arama yolu konumunda bulundu.
+          SearchPath "{TargetFrameworkDirectory}" için.
+          "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Core.winmd" denendi, ancak böyle bir öðe yoktu.
+      Bu baþvuru bir önkoþul dosyasý olduðundan "CopyLocal" deðildir.
+      Bu baþvurunun ImageRuntimeVersion'ý "v4.0.30319".
+"ResolveAssemblyReference" görevini yürütme tamamlandý.
+"ICExProject.csproj" projesinde "ResolveAssemblyReferences" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "ResolveComReferences" hedefi atlandý; ('@(COMReference)'!='' or '@(COMFileReference)'!=''), (''!='' or ''!='') olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "AfterResolveReferences" hedefi ("ResolveReferences" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "AfterResolveReferences" hedefini oluþturma tamamlandý.
+"GetReferenceAssemblyPaths" hedefi atlandý. Önceden baþarýlý bir þekilde oluþturulmuþtu.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.NETFramework.targets" dosyasýndaki "ImplicitlyExpandDesignTimeFacades" hedefi ("ResolveReferences" hedefi buna baðýmlý):
+Yanlýþ koþul nedeniyle "Message" görevi atlandý; ('%(ReferencePath.ResolvedFrom)' == 'ImplicitlyExpandDesignTimeFacades'), ('{TargetFrameworkDirectory}' == 'ImplicitlyExpandDesignTimeFacades') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Message" görevi atlandý; ('%(ReferencePath.ResolvedFrom)' == 'ImplicitlyExpandDesignTimeFacades'), ('C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\mscorlib.dll' == 'ImplicitlyExpandDesignTimeFacades') olarak deðerlendirildi.
+"ICExProject.csproj" projesinde "ImplicitlyExpandDesignTimeFacades" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "ResolveReferences" hedefi ("CoreBuild" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "ResolveReferences" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.WorkflowBuildExtensions.targets" dosyasýndaki "ValidationExtension" hedefi ("PrepareResources" hedefi buna baðýmlý):
+Yanlýþ koþul nedeniyle "WorkflowBuildMessageTask" görevi atlandý; ('$(SkipWorkflowValidation)'!='' and '$(SkipWorkflowValidation)'!='true' and '$(SkipWorkflowValidation)'!='false'), (''!='' and ''!='true' and ''!='false') olarak deðerlendirildi.
+"ICExProject.csproj" projesinde "ValidationExtension" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.WorkflowBuildExtensions.targets" dosyasýndaki "ExpressionBuildExtension" hedefi ("PrepareResources" hedefi buna baðýmlý):
+Yanlýþ koþul nedeniyle "WorkflowBuildMessageTask" görevi atlandý; ('$(DisableWorkflowCompiledExpressions)'!='' and '$(DisableWorkflowCompiledExpressions)'!='true' and '$(DisableWorkflowCompiledExpressions)'!='false'), (''!='' and ''!='true' and ''!='false') olarak deðerlendirildi.
+"ICExProject.csproj" projesinde "ExpressionBuildExtension" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "XamlMarkupCompilePass1" hedefi atlandý; ('@(XamlPage)' != '' or '@(XamlAppDef)' != ''), ('' != '' or '' != '') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "XamlMarkupCompileReadGeneratedFileList" hedefi atlandý; ('@(XamlPage)' != '' or '@(XamlAppDef)' != ''), ('' != '' or '' != '') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "XamlMarkupCompileAddFilesGenerated" hedefi atlandý; ('@(XamlPage)' != '' or '@(XamlAppDef)' != ''), ('' != '' or '' != '') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "XamlMarkupCompilePass2" hedefi atlandý; ('$(XamlRequiresCompilationPass2)' == 'true' ), ('false' == 'true' ) olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "XamlMarkupCompileReadPass2Flag" hedefi atlandý; ('@(XamlPage)' != '' or '@(XamlAppDef)' != ''), ('' != '' or '' != '') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "XamlMarkupCompileAddExtensionFilesGenerated" hedefi atlandý; ('@(XamlPage)' != '' or '@(XamlAppDef)' != ''), ('' != '' or '' != '') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "AddDeferredValidationErrorsFileToFileWrites" hedefi atlandý; (Exists('$(DeferredValidationErrorsFileName)')), (Exists('obj\Release\\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml')) olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "ReportValidationBuildExtensionErrors" hedefi atlandý; ('$(SkipWorkflowValidation)' != 'true' and ('@(XamlPage)' != '' or '@(XamlAppDef)' != '')), ('' != 'true' and ('' != '' or '' != '')) olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "MarkupCompilePass1" hedefi atlandý; ('@(Page)' != '' or '@(ApplicationDefinition)' != '' ), ('' != '' or '' != '' ) olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.WinFX.targets" dosyasýndaki "AfterMarkupCompilePass1" hedefi ("PrepareResources" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "AfterMarkupCompilePass1" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "MarkupCompilePass2ForMainAssembly" hedefi atlandý; ('$(_RequireMCPass2ForMainAssembly)' == 'true' ), ('false' == 'true' ) olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.WinFX.targets" dosyasýndaki "FileClassification" hedefi ("PrepareResources" hedefi buna baðýmlý):
+Yanlýþ koþul nedeniyle "FileClassifier" görevi atlandý; ('@(GeneratedBaml)' != '' or '@(Resource)' != '' or '@(Font)' != ''), ('' != '' or '' != '' or '' != '') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Message" görevi atlandý; ('$(MSBuildTargetsVerbose)'=='true'), (''=='true') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Message" görevi atlandý; ('$(MSBuildTargetsVerbose)'=='true'), (''=='true') olarak deðerlendirildi.
+"ICExProject.csproj" projesinde "FileClassification" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "MainResourcesGeneration" hedefi atlandý; ('@(MainEmbeddedFiles)' != ''), ('' != '') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "AssignWinFXEmbeddedResource" hedefi atlandý; ('@(WinFXEmbeddedResource)' != ''), ('' != '') olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "AssignTargetPaths" hedefi ("PrepareResourceNames" hedefi buna baðýmlý):
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "AssignTargetPath" görevi kullanýlýyor.
+"AssignTargetPath" görevi
+"AssignTargetPath" görevini yürütme tamamlandý.
+"AssignTargetPath" görevi
+"AssignTargetPath" görevini yürütme tamamlandý.
+"AssignTargetPath" görevi
+"AssignTargetPath" görevini yürütme tamamlandý.
+"AssignTargetPath" görevi
+"AssignTargetPath" görevini yürütme tamamlandý.
+Yanlýþ koþul nedeniyle "AssignTargetPath" görevi atlandý; ('@(_DeploymentBaseManifestWithTargetPath)'=='' and '%(None.Extension)'=='.manifest'), (''=='' and '.settings'=='.manifest') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "AssignTargetPath" görevi atlandý; ('@(_DeploymentBaseManifestWithTargetPath)'=='' and '%(None.Extension)'=='.manifest'), (''=='' and '.config'=='.manifest') olarak deðerlendirildi.
+"ICExProject.csproj" projesinde "AssignTargetPaths" hedefini oluþturma tamamlandý.
+"AssignTargetPaths" hedefi atlandý. Önceden baþarýlý bir þekilde oluþturulmuþtu.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "SplitResourcesByCulture" hedefi ("PrepareResourceNames" hedefi buna baðýmlý):
+Yanlýþ koþul nedeniyle "Warning" görevi atlandý; ('@(ResxWithNoCulture)'!=''), (''!='') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Warning" görevi atlandý; ('@(ResxWithCulture)'!=''), (''!='') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Warning" görevi atlandý; ('@(NonResxWithCulture)'!=''), (''!='') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Warning" görevi atlandý; ('@(NonResxWithNoCulture)'!=''), (''!='') olarak deðerlendirildi.
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "AssignCulture" görevi kullanýlýyor.
+"AssignCulture" görevi
+  "" kültürü "frm_1Giris.resx" dosyasýna atandý.
+  "" kültürü "frm_2Genel.resx" dosyasýna atandý.
+  "" kültürü "Properties\Resources.resx" dosyasýna atandý.
+"AssignCulture" görevini yürütme tamamlandý.
+"ICExProject.csproj" projesinde "SplitResourcesByCulture" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.CSharp.targets" dosyasýndaki "CreateManifestResourceNames" hedefi ("PrepareResourceNames" hedefi buna baðýmlý):
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "CreateCSharpManifestResourceName" görevi kullanýlýyor.
+"CreateCSharpManifestResourceName" görevi
+  Kök ad alaný: 'ICEx_Koxp_CSharp'.
+  'frm_1Giris.resx' kaynak dosyasý 'frm_1Giris.cs' öðesine baðýmlýdýr.
+  'frm_1Giris.resx' kaynak dosyasý, 'ICEProject.frm_1Giris' bildirim kaynaðý adýný alýyor.
+  'frm_2Genel.resx' kaynak dosyasý 'frm_2Genel.cs' öðesine baðýmlýdýr.
+  'frm_2Genel.resx' kaynak dosyasý, 'ICEProject.frm_2Genel' bildirim kaynaðý adýný alýyor.
+  'Properties\Resources.resx' kaynak dosyasý herhangi bir baþka dosyaya baðýmlý deðildir.
+  'Properties\Resources.resx' kaynak dosyasý, 'ICEx_Koxp_CSharp.Properties.Resources' bildirim kaynaðý adýný alýyor.
+"CreateCSharpManifestResourceName" görevini yürütme tamamlandý.
+Yanlýþ koþul nedeniyle "CreateCSharpManifestResourceName" görevi atlandý; ('%(EmbeddedResource.ManifestResourceName)' == '' and '%(EmbeddedResource.WithCulture)' == 'true' and '%(EmbeddedResource.Type)' == 'Non-Resx'), ('' == '' and 'false' == 'true' and 'Resx' == 'Non-Resx') olarak deðerlendirildi.
+"ICExProject.csproj" projesinde "CreateManifestResourceNames" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "CreateCustomManifestResourceNames" hedefi ("PrepareResourceNames" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "CreateCustomManifestResourceNames" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "PrepareResourceNames" hedefi ("PrepareResources" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "PrepareResourceNames" hedefini oluþturma tamamlandý.
+"ResolveAssemblyReferences" hedefi atlandý. Önceden baþarýlý bir þekilde oluþturulmuþtu.
+"SplitResourcesByCulture" hedefi atlandý. Önceden baþarýlý bir þekilde oluþturulmuþtu.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "BeforeResGen" hedefi ("ResGen" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "BeforeResGen" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "CoreResGen" hedefi ("ResGen" hedefi buna baðýmlý):
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "GenerateResource" görevi kullanýlýyor.
+"GenerateResource" görevi
+  Çalýþma zamaný "CLR4" ve iþlem mimarisi "x86" olan harici bir görev ana bilgisayarýndaki "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesinden "GenerateResource" görevi baþlatýlýyor.
+  Ýlgili kaynak dosyalarýna göre kaynaklarýn tümü güncel. Kaynak oluþturma atlanýyor.
+"GenerateResource" görevini yürütme tamamlandý.
+Yanlýþ koþul nedeniyle "GenerateResource" görevi atlandý; ('%(EmbeddedResource.Type)' == 'Resx' and '%(EmbeddedResource.GenerateResource)' != 'false' and '$(GenerateResourceMSBuildRuntime)' == 'CLR2'), ('Resx' == 'Resx' and '' != 'false' and 'CurrentRuntime' == 'CLR2') olarak deðerlendirildi.
+"ICExProject.csproj" projesinde "CoreResGen" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "AfterResGen" hedefi ("ResGen" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "AfterResGen" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "ResGen" hedefi ("PrepareResources" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "ResGen" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "CompileLicxFiles" hedefi atlandý; ('@(_LicxFile)'!=''), (''!='') olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "PrepareResources" hedefi ("CoreBuild" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "PrepareResources" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "ResolveKeySource" hedefi atlandý; ($(SignManifests) == 'true' or $(SignAssembly) == 'true'), ( == 'true' or  == 'true') olarak deðerlendirildi.
+"ResolveReferences" hedefi atlandý. Önceden baþarýlý bir þekilde oluþturulmuþtu.
+Yanlýþ koþul nedeniyle "ResolveKeySource" hedefi atlandý; ($(SignManifests) == 'true' or $(SignAssembly) == 'true'), ( == 'true' or  == 'true') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "ResolveComReferences" hedefi atlandý; ('@(COMReference)'!='' or '@(COMFileReference)'!=''), (''!='' or ''!='') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "ResolveNativeReferences" hedefi atlandý; ('@(NativeReference)'!=''), (''!='') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "_SetExternalWin32ManifestProperties" hedefi atlandý; ('$(GenerateClickOnceManifests)'=='true' or '@(NativeReference)'!='' or '@(ResolvedIsolatedComModules)'!=''), (''=='true' or ''!='' or ''!='') olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "_SetEmbeddedWin32ManifestProperties" hedefi ("SetWin32ManifestProperties" hedefi buna baðýmlý):
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "GetFrameworkPath" görevi kullanýlýyor.
+"GetFrameworkPath" görevi
+"GetFrameworkPath" görevini yürütme tamamlandý.
+"ICExProject.csproj" projesinde "_SetEmbeddedWin32ManifestProperties" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "SetWin32ManifestProperties" hedefi ("Compile" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "SetWin32ManifestProperties" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "_GenerateCompileInputs" hedefi ("Compile" hedefi buna baðýmlý):
+Yanlýþ koþul nedeniyle "Warning" görevi atlandý; ('@(ManifestResourceWithNoCulture)'!='' and '%(ManifestResourceWithNoCulture.EmittedForCompatibilityOnly)'==''), ('obj\Release\ICEProject.frm_1Giris.resources;obj\Release\ICEProject.frm_2Genel.resources;obj\Release\ICEx_Koxp_CSharp.Properties.Resources.resources'!='' and 'true'=='') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Warning" görevi atlandý; ('@(ManifestNonResxWithNoCultureOnDisk)'!='' and '%(ManifestNonResxWithNoCultureOnDisk.EmittedForCompatibilityOnly)'==''), (''!='' and ''=='') olarak deðerlendirildi.
+"ICExProject.csproj" projesinde "_GenerateCompileInputs" hedefini oluþturma tamamlandý.
+"PrepareForBuild" hedefi atlandý. Önceden baþarýlý bir þekilde oluþturulmuþtu.
+"GetReferenceAssemblyPaths" hedefi atlandý. Önceden baþarýlý bir þekilde oluþturulmuþtu.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.CSharp.targets" dosyasýndaki "_SetTargetFrameworkMonikerAttribute" hedefi ("GenerateTargetFrameworkMonikerAttribute" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "_SetTargetFrameworkMonikerAttribute" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "GenerateTargetFrameworkMonikerAttribute" hedefi ("BeforeCompile" hedefi buna baðýmlý):
+Tüm çýkýþ dosyalarý, giriþ dosyalarýna göre güncel durumda olduðundan "GenerateTargetFrameworkMonikerAttribute" hedefi atlanýyor.
+Giriþ dosyalarý: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets
+Çýkýþ dosyalarý: C:\Users\Emir\AppData\Local\Temp\.NETFramework,Version=v4.8.AssemblyAttributes.cs
+"ICExProject.csproj" projesinde "GenerateTargetFrameworkMonikerAttribute" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "GenerateAdditionalSources" hedefi atlandý; ('@(AssemblyAttributes)' != '' and '$(GenerateAdditionalSources)' == 'true'), ('' != '' and '' == 'true') olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "BeforeCompile" hedefi ("Compile" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "BeforeCompile" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "_TimeStampBeforeCompile" hedefi atlandý; ('$(RunPostBuildEvent)'=='OnOutputUpdated' or ('$(RegisterForComInterop)'=='true' and '$(OutputType)'=='library')), (''=='OnOutputUpdated' or (''=='true' and 'WinExe'=='library')) olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "_ComputeNonExistentFileProperty" hedefi atlandý; (('$(BuildingInsideVisualStudio)' == 'true') and ('$(BuildingOutOfProcess)' != 'true') and (('$(BuildingProject)' == 'false') or ('$(UseHostCompilerIfAvailable)' == 'true'))), (('' == 'true') and ('' != 'true') and (('true' == 'false') or ('true' == 'true'))) olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.ServiceModel.targets" dosyasýndaki "PreXsdCodeGen" hedefi ("CoreCompile" hedefi buna baðýmlý):
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "CallTarget" görevi kullanýlýyor.
+"CallTarget" görevi
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.ServiceModel.targets" dosyasýndaki "CleanXsdCodeGen" hedefi ("PreXsdCodeGen" hedefi buna baðýmlý):
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "Delete" görevi kullanýlýyor.
+"Delete" görevi
+"Delete" görevini yürütme tamamlandý.
+"ICExProject.csproj" projesinde "CleanXsdCodeGen" hedefini oluþturma tamamlandý.
+"CallTarget" görevini yürütme tamamlandý.
+"ICExProject.csproj" projesinde "PreXsdCodeGen" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "XsdCodeGen" hedefi atlandý; ( '$(XsdCodeGenPreCondition)' == 'True' ), ( 'False' == 'True' ) olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.CSharp.targets" dosyasýndaki "CoreCompile" hedefi ("Compile" hedefi buna baðýmlý):
+"CoreCompile" hedefi tam olarak oluþturuluyor.
+"obj\Release\ICEx_Koxp_CSharp.exe" çýkýþ dosyasý yok.
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "Csc" görevi kullanýlýyor.
+"Csc" görevi
+  C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Csc.exe /noconfig /nowarn:1701,1702 /nostdlib+ /platform:anycpu32bitpreferred /errorreport:prompt /warn:4 /define:TRACE /highentropyva+ /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Microsoft.CSharp.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\mscorlib.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Core.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Data.DataSetExtensions.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Data.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Deployment.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Drawing.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Windows.Forms.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Xml.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Xml.Linq.dll" /debug:pdbonly /filealign:512 /optimize+ /out:"obj\Release\ICEx_Koxp_CSharp.exe" /subsystemversion:6.00 /resource:"obj\Release\ICEProject.frm_1Giris.resources" /resource:"obj\Release\ICEProject.frm_2Genel.resources" /resource:"obj\Release\ICEx_Koxp_CSharp.Properties.Resources.resources" /target:winexe /utf8output cls_Api.cs cls_Bot.cs cls_Client.cs "cls_IniFile.cs" frm_1Giris.cs frm_1Giris.Designer.cs frm_2Genel.cs frm_2Genel.Designer.cs KO.cs Program.cs "Properties\AssemblyInfo.cs" Properties\Resources.Designer.cs Properties\Settings.Designer.cs "C:\Users\Emir\AppData\Local\Temp\.NETFramework,Version=v4.8.AssemblyAttributes.cs"
+  Microsoft (R) Visual C# Compiler version 4.8.9232.0
+  
+  for C# 5
+  Copyright (C) Microsoft Corporation. All rights reserved.
+  
+  
+  
+  This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+  
+cls_Bot.cs(1688,37): warning CS0162: Ulaþýlamayan kod algýlandý [C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj]
+"Csc" görevini yürütme tamamlandý.
+Yanlýþ koþul nedeniyle "CallTarget" görevi atlandý; ('$(TargetsTriggeredByCompilation)' != ''), ('' != '') olarak deðerlendirildi.
+"ICExProject.csproj" projesinde "CoreCompile" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "_TimeStampAfterCompile" hedefi atlandý; ('$(RunPostBuildEvent)'=='OnOutputUpdated' or ('$(RegisterForComInterop)'=='true' and '$(OutputType)'=='library')), (''=='OnOutputUpdated' or (''=='true' and 'WinExe'=='library')) olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "AfterCompile" hedefi ("Compile" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "AfterCompile" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "PrepareResourcesForSatelliteAssemblies" hedefi atlandý; ('$(UICulture)' != ''), ('' != '') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "MergeLocalizationDirectives" hedefi atlandý; ('@(GeneratedLocalizationFiles)' !=''), ('' !='') olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.WinFX.targets" dosyasýndaki "AfterCompileWinFX" hedefi ("_AfterCompileWinFXInternal" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "AfterCompileWinFX" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.WinFX.targets" dosyasýndaki "_AfterCompileWinFXInternal" hedefi ("Compile" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "_AfterCompileWinFXInternal" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "Compile" hedefi ("CoreBuild" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "Compile" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "DeferredValidation" hedefi atlandý; ('$(SkipWorkflowValidation)' != 'true' and ('@(XamlPage)' != '' or '@(XamlAppDef)' != '')), ('' != 'true' and ('' != '' or '' != '')) olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "ExportWindowsMDFile" hedefi atlandý; ('$(ExportWinMDFile)' == 'true'), ('' == 'true') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "UnmanagedUnregistration" hedefi atlandý; ((('$(_AssemblyTimestampBeforeCompile)' != '$(_AssemblyTimestampAfterCompile)' or '$(RegisterForComInterop)' != 'true' or '$(OutputType)' != 'library') or
+                    ('$(_AssemblyTimestampBeforeCompile)' == '')) and
+                   Exists('@(_UnmanagedRegistrationCache)')), ((('' != '' or '' != 'true' or 'WinExe' != 'library') or
+                    ('' == '')) and
+                   Exists('obj\ICExProject.csproj.UnmanagedRegistration.cache')) olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "GenerateSerializationAssemblies" hedefi atlandý; ('$(_SGenGenerateSerializationAssembliesConfig)' == 'On' or ('@(WebReferenceUrl)'!='' and '$(_SGenGenerateSerializationAssembliesConfig)' == 'Auto')), ('Auto' == 'On' or (''!='' and 'Auto' == 'Auto')) olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "_GenerateSatelliteAssemblyInputs" hedefi ("CreateSatelliteAssemblies" hedefi buna baðýmlý):
+Yanlýþ koþul nedeniyle "Warning" görevi atlandý; ('@(ManifestResourceWithCulture)'!='' and '%(ManifestResourceWithCulture.EmittedForCompatibilityOnly)'==''), (''!='' and ''=='') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Warning" görevi atlandý; ('@(ManifestNonResxWithCultureOnDisk)'!='' and '%(ManifestNonResxWithCultureOnDisk.EmittedForCompatibilityOnly)'==''), (''!='' and ''=='') olarak deðerlendirildi.
+"ICExProject.csproj" projesinde "_GenerateSatelliteAssemblyInputs" hedefini oluþturma tamamlandý.
+"CreateManifestResourceNames" hedefi atlandý. Önceden baþarýlý bir þekilde oluþturulmuþtu.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "ComputeIntermediateSatelliteAssemblies" hedefi ("CreateSatelliteAssemblies" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "ComputeIntermediateSatelliteAssemblies" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "GenerateSatelliteAssemblies" hedefi atlandý; ('@(_SatelliteAssemblyResourceInputs)' != ''), ('' != '') olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "CreateSatelliteAssemblies" hedefi ("CoreBuild" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "CreateSatelliteAssemblies" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "GenerateManifests" hedefi atlandý; ('$(GenerateClickOnceManifests)'=='true' or '@(NativeReference)'!='' or '@(ResolvedIsolatedComModules)'!='' or '$(GenerateAppxManifest)' == 'true'), (''=='true' or ''!='' or ''!='' or '' == 'true') olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "GetTargetPath" hedefi ("CoreBuild" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "GetTargetPath" hedefini oluþturma tamamlandý.
+"ComputeIntermediateSatelliteAssemblies" hedefi atlandý. Önceden baþarýlý bir þekilde oluþturulmuþtu.
+Yanlýþ koþul nedeniyle "_CopyFilesMarkedCopyLocal" hedefi atlandý; ('@(ReferenceCopyLocalPaths)' != ''), ('' != '') olarak deðerlendirildi.
+"AssignTargetPaths" hedefi atlandý. Önceden baþarýlý bir þekilde oluþturulmuþtu.
+"_SplitProjectReferencesByFileExistence" hedefi atlandý. Önceden baþarýlý bir þekilde oluþturulmuþtu.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Xaml.targets" dosyasýndaki "GetCopyToOutputDirectoryXamlAppDefs" hedefi ("GetCopyToOutputDirectoryItems" hedefi buna baðýmlý):
+"AssignTargetPath" görevi
+"AssignTargetPath" görevini yürütme tamamlandý.
+"ICExProject.csproj" projesinde "GetCopyToOutputDirectoryXamlAppDefs" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "GetCopyToOutputDirectoryItems" hedefi ("_CopySourceItemsToOutputDirectory" hedefi buna baðýmlý):
+Yanlýþ koþul nedeniyle "MSBuild" görevi atlandý; ('@(_MSBuildProjectReferenceExistent)' != '' and '$(_GetChildProjectCopyToOutputDirectoryItems)' == 'true' and '%(_MSBuildProjectReferenceExistent.Private)' != 'false' and '$(UseCommonOutputDirectory)' != 'true'), ('' != '' and 'true' == 'true' and '' != 'false' and 'false' != 'true') olarak deðerlendirildi.
+"AssignTargetPath" görevi
+"AssignTargetPath" görevini yürütme tamamlandý.
+"ICExProject.csproj" projesinde "GetCopyToOutputDirectoryItems" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "_CopyOutOfDateSourceItemsToOutputDirectory" hedefi atlandý; ( '@(_SourceItemsToCopyToOutputDirectory)' != '' ), ( '' != '' ) olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "_CopyOutOfDateSourceItemsToOutputDirectoryAlways" hedefi atlandý; ( '@(_SourceItemsToCopyToOutputDirectoryAlways)' != '' ), ( '' != '' ) olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "_CopySourceItemsToOutputDirectory" hedefi ("CopyFilesToOutputDirectory" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "_CopySourceItemsToOutputDirectory" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "_CopyAppConfigFile" hedefi ("CopyFilesToOutputDirectory" hedefi buna baðýmlý):
+"_CopyAppConfigFile" hedefi tam olarak oluþturuluyor.
+"bin\Release\ICEx_Koxp_CSharp.exe.config" çýkýþ dosyasý yok.
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "Copy" görevi kullanýlýyor.
+"Copy" görevi
+  Dosya "App.config" konumundan "bin\Release\ICEx_Koxp_CSharp.exe.config" konumuna kopyalanýyor.
+"Copy" görevini yürütme tamamlandý.
+"ICExProject.csproj" projesinde "_CopyAppConfigFile" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "_CopyManifestFiles" hedefi atlandý; ( '$(_DeploymentCopyApplicationManifest)'=='true' or '$(GenerateClickOnceManifests)'=='true' ), ( ''=='true' or ''=='true' ) olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "_CheckForCompileOutputs" hedefi ("CopyFilesToOutputDirectory" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "_CheckForCompileOutputs" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "_SGenCheckForOutputs" hedefi atlandý; ('$(_SGenGenerateSerializationAssembliesConfig)' == 'On' or ('@(WebReferenceUrl)'!='' and '$(_SGenGenerateSerializationAssembliesConfig)' == 'Auto')), ('Auto' == 'On' or (''!='' and 'Auto' == 'Auto')) olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "CopyFilesToOutputDirectory" hedefi ("PrepareForRun" hedefi buna baðýmlý):
+"Copy" görevi
+  Dosya "obj\Release\ICEx_Koxp_CSharp.exe" konumundan "bin\Release\ICEx_Koxp_CSharp.exe" konumuna kopyalanýyor.
+"Copy" görevini yürütme tamamlandý.
+"Message" görevi
+  ICExProject -> C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\bin\Release\ICEx_Koxp_CSharp.exe
+"Message" görevini yürütme tamamlandý.
+Yanlýþ koþul nedeniyle "Copy" görevi atlandý; ('@(AddModules)' != ''), ('' != '') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Copy" görevi atlandý; ('$(_SGenDllCreated)'=='true'), ('false'=='true') olarak deðerlendirildi.
+"Copy" görevi
+  Dosya "obj\Release\ICEx_Koxp_CSharp.pdb" konumundan "bin\Release\ICEx_Koxp_CSharp.pdb" konumuna kopyalanýyor.
+"Copy" görevini yürütme tamamlandý.
+Yanlýþ koþul nedeniyle "Copy" görevi atlandý; ('$(_DocumentationFileProduced)'=='true'), ('false'=='true') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Copy" görevi atlandý; ('@(IntermediateSatelliteAssembliesWithTargetPath)' != ''), ('' != '') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Copy" görevi atlandý; ('@(ReferenceComWrappersToCopyLocal)' != '' or '@(ResolvedIsolatedComModules)' != '' or '@(_DeploymentLooseManifestFile)' != '' or '@(NativeReferenceFile)' != '' ), ('' != '' or '' != '' or '' != '' or '' != '' ) olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Copy" görevi atlandý; ('$(SkipCopyWinMDArtifact)' != 'true' and '@(WinMDExpArtifacts)' != ''), ('' != 'true' and '' != '') olarak deðerlendirildi.
+Yanlýþ koþul nedeniyle "Message" görevi atlandý; ('$(SkipCopyWinMDArtifact)' != 'true' and '$(_WindowsMetadataOutputPath)' != ''), ('' != 'true' and '' != '') olarak deðerlendirildi.
+"ICExProject.csproj" projesinde "CopyFilesToOutputDirectory" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "PrepareForRun" hedefi ("CoreBuild" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "PrepareForRun" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "UnmanagedRegistration" hedefi atlandý; ('$(RegisterForComInterop)'=='true' and '$(OutputType)'=='library'), (''=='true' and 'WinExe'=='library') olarak deðerlendirildi.
+"_CheckForCompileOutputs" hedefi atlandý. Önceden baþarýlý bir þekilde oluþturulmuþtu.
+Yanlýþ koþul nedeniyle "_SGenCheckForOutputs" hedefi atlandý; ('$(_SGenGenerateSerializationAssembliesConfig)' == 'On' or ('@(WebReferenceUrl)'!='' and '$(_SGenGenerateSerializationAssembliesConfig)' == 'Auto')), ('Auto' == 'On' or (''!='' and 'Auto' == 'Auto')) olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "_CleanGetCurrentAndPriorFileWrites" hedefi ("IncrementalClean" hedefi buna baðýmlý):
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "ReadLinesFromFile" görevi kullanýlýyor.
+"ReadLinesFromFile" görevi
+"ReadLinesFromFile" görevini yürütme tamamlandý.
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "ConvertToAbsolutePath" görevi kullanýlýyor.
+"ConvertToAbsolutePath" görevi
+"ConvertToAbsolutePath" görevini yürütme tamamlandý.
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "FindUnderPath" görevi kullanýlýyor.
+"FindUnderPath" görevi
+  Karþýlaþtýrma yolu: "C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject".
+"FindUnderPath" görevini yürütme tamamlandý.
+"FindUnderPath" görevi
+  Karþýlaþtýrma yolu: "bin\Release\".
+"FindUnderPath" görevini yürütme tamamlandý.
+"FindUnderPath" görevi
+  Karþýlaþtýrma yolu: "obj\Release\".
+"FindUnderPath" görevini yürütme tamamlandý.
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "RemoveDuplicates" görevi kullanýlýyor.
+"RemoveDuplicates" görevi
+"RemoveDuplicates" görevini yürütme tamamlandý.
+"ICExProject.csproj" projesinde "_CleanGetCurrentAndPriorFileWrites" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "IncrementalClean" hedefi ("CoreBuild" hedefi buna baðýmlý):
+"FindUnderPath" görevi
+  Karþýlaþtýrma yolu: "bin\Release\".
+"FindUnderPath" görevini yürütme tamamlandý.
+"FindUnderPath" görevi
+  Karþýlaþtýrma yolu: "obj\Release\".
+"FindUnderPath" görevini yürütme tamamlandý.
+"Delete" görevi
+"Delete" görevini yürütme tamamlandý.
+"RemoveDuplicates" görevi
+"RemoveDuplicates" görevini yürütme tamamlandý.
+"Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" derlemesindeki "WriteLinesToFile" görevi kullanýlýyor.
+"WriteLinesToFile" görevi
+"WriteLinesToFile" görevini yürütme tamamlandý.
+"ICExProject.csproj" projesinde "IncrementalClean" hedefini oluþturma tamamlandý.
+Yanlýþ koþul nedeniyle "PostBuildEvent" hedefi atlandý; ('$(PostBuildEvent)' != '' and ('$(RunPostBuildEvent)' != 'OnOutputUpdated' or '$(_AssemblyTimestampBeforeCompile)' != '$(_AssemblyTimestampAfterCompile)')), ('' != '' and ('' != 'OnOutputUpdated' or '' != '')) olarak deðerlendirildi.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "CoreBuild" hedefi ("Build" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "CoreBuild" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "AfterBuild" hedefi ("Build" hedefi buna baðýmlý):
+"ICExProject.csproj" projesinde "AfterBuild" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" projesinin "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets" dosyasýndaki "Build" hedefi (giriþ noktasý):
+"ICExProject.csproj" projesinde "Build" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" Projesini Oluþturma Ýþlemi Tamamlandý (varsayýlan hedefler).
+
+"MSBuild" görevini yürütme tamamlandý.
+"ICExProject.sln" projesinde "Build" hedefini oluþturma tamamlandý.
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject.sln" Projesini Oluþturma Ýþlemi Tamamlandý (Build hedef).
+
+
+Oluþturma baþarýlý oldu.
+
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject.sln" (Build hedefi) (1) ->
+"C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj" (varsayýlan hedef) (2) ->
+(CoreCompile hedefi) -> 
+  cls_Bot.cs(1688,37): warning CS0162: Ulaþýlamayan kod algýlandý [C:\Users\Emir\Downloads\ICEx_Project_KnightOnline-master\ICEx_Project_KnightOnline-master\ICExProject\ICExProject.csproj]
+
+    1 Uyarý
+    0 Hata
+
+Geçen Süre 00:00:00.74
